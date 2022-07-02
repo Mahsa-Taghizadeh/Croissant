@@ -1,3 +1,23 @@
 body {
-  background-color: beige;
+  background-color: #f8e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+img {
+  max-width: 50%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  box-shadow: 1px 1px 20 black;
+}
+.links {
+  text-align: center;
+}
+
+.links a {
+  color: brown;
+  padding: 10px;
 }
